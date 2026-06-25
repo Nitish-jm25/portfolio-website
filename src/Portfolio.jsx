@@ -552,7 +552,7 @@ function About() {
     { value: "8.3", label: "CGPA" },
     { value: "4", label: "Shipped projects" },
     { value: "1", label: "Research publication" },
-    { value: "3", label: "Certifications" },
+    { value: "5", label: "Certifications" },
   ];
   return (
     <section id="about" className="section">
