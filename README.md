@@ -1,8 +1,9 @@
+
 # Nitish Raj J M — Portfolio Website
 
 A single-page portfolio built with React + Vite. No paid services required to deploy it.
 
----
+
 
 ## 1. Run it locally (optional, just to preview)
 
@@ -15,7 +16,7 @@ npm run dev
 
 Then open the URL it prints (usually `http://localhost:5173`).
 
----
+
 
 ## 2. Push this folder to GitHub
 
@@ -33,7 +34,6 @@ git push -u origin main
 
 (Replace the URL above with the one GitHub shows you after creating the repo.)
 
----
 
 ## 3. Deploy for free on Vercel
 
@@ -46,7 +46,7 @@ git push -u origin main
 You'll get a live URL immediately, something like:
 `https://portfolio-website-xyz123.vercel.app`
 
----
+
 
 ## 4. Claim a clean free subdomain
 
@@ -56,7 +56,7 @@ You'll get a live URL immediately, something like:
 
 Your site is now live at `https://nitishraj.vercel.app` (or whatever you chose), with free HTTPS automatically.
 
----
+
 
 ## 5. Future updates
 
@@ -70,7 +70,7 @@ git push
 
 Vercel automatically redeploys within a minute or two. No manual re-upload ever needed.
 
----
+
 
 ## Alternative free hosts (if you ever want options)
 
@@ -79,7 +79,7 @@ Vercel automatically redeploys within a minute or two. No manual re-upload ever 
 
 Vercel is recommended here since it has the smoothest zero-config experience for Vite projects.
 
----
+
 
 ## What's inside
 
